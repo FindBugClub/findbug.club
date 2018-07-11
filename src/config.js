@@ -29,6 +29,6 @@ export const System = {
   name: 'findbug.club',
   title: 'findbug.club',
   subtitle: 'findbug.club',
-  logo: './assets/logo.png',
+  logo: require('./assets/logo.png'),
   copyright: '© 2018'
 }
